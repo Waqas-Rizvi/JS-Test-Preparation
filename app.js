@@ -320,7 +320,7 @@ alert(pera)*/
 // alert(f + 2)
 
 
-//"Preparation of Test#04"
+//"Preparation of Test Chap#21-55"
 
 // var text = "My name is Waqas"
 // var lower = text.toLowerCase()
@@ -437,3 +437,35 @@ alert(pera)*/
 //     alert(i)
 // } while (i < 5)
 
+// function more(){
+//     var a = "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ullam ducimus obcaecati, impedit adipisci soluta, sapiente asperiores nostrum fuga quam architecto quis quos blanditiis laborum, dolores sunt labore dignissimos aliquid culpa?"
+//     document.getElementById("pera").innerHTML = a
+// }
+
+// function invisible(){
+//     document.getElementById("image").className = " hidden"
+// }
+
+// function swap(){
+//     document.getElementById("image").src = "Images/Image 02.jpg"
+// }
+
+// function swap2(){
+//     document.getElementById("image").src = "Images/Image 01.jpeg"
+// }
+
+// function swap(a){
+//     document.getElementById("image").src = a
+// }
+
+// function swap2(a){
+//     document.getElementById("image").src = a
+// }
+
+// function size(){
+//     document.getElementById("name").style.fontSize = "32px"
+// }
+
+// function size2(){
+//     document.getElementById("name").style.fontSize = "16px"
+// }
