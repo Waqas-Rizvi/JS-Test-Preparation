@@ -320,7 +320,77 @@ alert(pera)*/
 // alert(f + 2)
 
 
-//"Preparation of Test Chap#21-55"
+//"Preparation of Test Chap#01-55"
+
+// var a = "Waqas"
+// a = "Hamza"
+// alert(a)
+
+// var a = 12
+// a = a + 5
+// alert(a)
+
+// var a = 2
+// alert(a + 6)
+
+// var a = 2
+// var b = a++ + 2 + --a + a
+// //      2   + 2 +   2 + 2
+// alert(b)
+
+// var a = 2 + 3 * (6 / 3)
+// alert(a)
+
+// var a = "Waqas"
+// alert("My name is " + a + " Altaf")
+
+// var a = Math.random()
+// var c = a * 3
+// var d = Math.ceil(c)
+// var b = +prompt("Guess a number")
+// if(d == b){
+//     alert("Correct Answer")
+// } else if(b > 3){
+//     alert("Write 1 to 3 Number")
+// } else {
+//     alert("Wrong Answer")
+// }
+
+// var a = ['sun', 'mon', 'tues', 'wed', 'thurs', 'fri', 'sat']
+// var b = a[2]
+// alert(b)
+
+// var a = ['sun', 'mon', 'tues', 'wed', 'thurs', 'fri', 'sat']
+// var b = ['sun', 'mon','thurs', 'fri', 'sat']
+// // a.pop()
+// // a.shift()
+// // a.push("saturday")
+// // a.unshift('Sunday')
+// // b.splice(2,0,'tue', 'wed')
+// var c = a.slice(1,6)
+// alert(c)
+
+// var a = ['cakes', 'drinks', 'burgers']
+// var b = prompt('Enter name')
+// for (c = 0; c <= 3; c++) {
+//     if (b === a[c]) {
+//         alert("Available")
+//     }
+// }
+
+// var a = ['cakes', 'drinks', 'burgers']
+// var b = prompt('Enter name')
+// var match = "false"
+// for (c = 0; c <= 3; c++) {
+//     if (b === a[c]) {
+//         match = "true"
+//         alert("Available")
+//         break
+//     }
+// }
+// if (match === "false") {
+//     alert("Not available")
+// }
 
 // var text = "My name is Waqas"
 // var lower = text.toLowerCase()
@@ -469,3 +539,4 @@ alert(pera)*/
 // function size2(){
 //     document.getElementById("name").style.fontSize = "16px"
 // }
+
